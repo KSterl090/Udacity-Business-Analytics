@@ -1,0 +1,67 @@
+Which is the best selling album? 
+SELECT 
+  Album.Title, 
+  SUM(InvoiceLine.UnitPrice)
+FROM 
+  Album 
+  JOIN Track ON Album.AlbumId = Track.AlbumId 
+  JOIN InvoiceLine ON Track.TrackId = InvoiceLine.TrackId 
+GROUP BY 
+  1 
+ORDER BY 
+  2 DESC 
+LIMIT 
+  3;
+
+Who are the top 5 best selling artist? 
+SELECT 
+  Artist.Name, 
+ round(SUM(InvoiceLine.UnitPrice),2) As Sales
+FROM 
+  Artist 
+  JOIN Album ON Artist.ArtistId = Album.ArtistId 
+  JOIN Track ON Album.AlbumId = Track.AlbumId 
+  JOIN InvoiceLine ON Track.TrackId = InvoiceLine.TrackId 
+GROUP BY 
+  1 
+ORDER BY 
+  2 DESC 
+LIMIT 
+  5;
+
+
+What is the most common media type?
+
+SELECT 
+  MediaType.Name, 
+  COUNT(Track.TrackId) As Total_tracks
+FROM 
+  MediaType 
+  JOIN Track ON MediaType.MediaTypeId = Track.MediaTypeId 
+GROUP BY 
+  1 
+ORDER BY 
+  2 DESC 
+LIMIT 
+  3;
+
+
+What are the top 5 best selling genre?
+
+SELECT 
+  Genre.Name, 
+ round(SUM(InvoiceLine.UnitPrice),0) As Sales
+FROM 
+  Genre 
+  JOIN Track ON Genre.GenreId = Track.GenreId 
+  JOIN InvoiceLine ON Track.TrackId = InvoiceLine.TrackId 
+GROUP BY 
+  1 
+ORDER BY 
+  2 DESC 
+LIMIT 
+  5;
+
+
+
+
