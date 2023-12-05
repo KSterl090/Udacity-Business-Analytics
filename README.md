@@ -8,7 +8,7 @@ In this program, you'll learn the foundational data analysis skills that apply a
 
 In this project, I analyzed an interactive data dashboard of the Top Skills of 2016 on Linkedin. From there I wrote out my conclusions from the dashboard making sure to show screenshots to support my findings. 
 
-Project 1 - Insights from Data
+[Project 1 - Insights from Data](https://github.com/KSterl090/Udacity-Business-Analytics/tree/main/Project%201%20-%20Insights%20from%20Data)https://github.com/KSterl090/Udacity-Business-Analytics/tree/main/Project%201%20-%20Insights%20from%20Data
 
 
 
