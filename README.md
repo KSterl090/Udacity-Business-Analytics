@@ -22,6 +22,10 @@ In this project, I learned the basics of querying a database using SQL. The data
 
 [Project 3 - Query a Digital Music Store Database](https://github.com/KSterl090/Udacity-Business-Analytics/tree/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database)
 
-# 
+# Project 4: Tableau Data Visualization
+
+In this project, I learned how to create an interactive and visually pleasing dashboard using Tableau to discover and communicate insights from data. 
+
+ Project 4 - Tableau Data Visualization
 
 
