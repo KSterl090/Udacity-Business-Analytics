@@ -2,7 +2,7 @@
 
 Overview
 
-In this program, I learned the foundational data analysis skills that apply across functions and industries. At the end of the course,  will learn how to analyze and build models in Excel, query databases using SQL, and create informative visualizations of your data using Tableau. 
+In this program, I learned the foundational data analysis skills that apply across functions and industries. At the end of the course,  I learned how to analyze and build models in Excel, query databases using SQL, and create informative visualizations of your data using Tableau. 
 
 # Project 1: Insights from Data
 
@@ -12,7 +12,9 @@ In this project, I analyzed an interactive data dashboard of the Top Skills of 2
 
 # Project 2: Analyze NYSE Data
 
-IN 
+In this project, I used statistics and spreadsheet molding programs such as Google Sheets to analyze data from over 500 New York Stock Exchange companies. Based on the data analyzed I forecasted a selected company's financial metrics based on 3 possible scenarios.
+
+Project 2 - 
 
 
 
