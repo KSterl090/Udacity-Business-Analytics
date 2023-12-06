@@ -1,3 +1,7 @@
+
+![image](https://github.com/KSterl090/Udacity-Business-Analytics/assets/144945107/b21a137b-05aa-46ab-995a-f98ed462d76c)
+
+
 # Udacity Business Analytics
 
 Overview
