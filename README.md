@@ -26,6 +26,6 @@ In this project, I learned the basics of querying a database using SQL. The data
 
 In this project, I learned how to create an interactive and visually pleasing dashboard using Tableau to discover and communicate insights from data. 
 
- Project 4 - Tableau Data Visualization
+ [Project 4 - Tableau Data Visualization](https://github.com/KSterl090/Udacity-Business-Analytics/tree/main/Project%204:%20Tableau%20Data%20Visualization)
 
 
