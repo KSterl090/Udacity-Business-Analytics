@@ -14,7 +14,7 @@ In this project, I analyzed an interactive data dashboard of the Top Skills of 2
 
 In this project, I used statistics and spreadsheet molding programs such as Google Sheets to analyze data from over 500 New York Stock Exchange companies. Based on the data analyzed I forecasted a selected company's financial metrics based on 3 possible scenarios.
 
-Project 2 - 
+Project 2 - Analyze NYSE Data
 
 
 
