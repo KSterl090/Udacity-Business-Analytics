@@ -16,7 +16,9 @@ In this project, I used statistics and spreadsheet molding programs such as Goog
 
 [Project 2 - Analyze NYSE Data](https://github.com/KSterl090/Udacity-Business-Analytics/tree/main/Project%202:%20Analyze%20NYSE%20Data)
 
-# Project 3: 
+# Project 3: Query a Digital Music Store Database
+
+In this project, I learned the basics of querying a database using SQL. The dataset used was for a music store where I helped a store understand what their best-selling album was, who were the 5 top-selling artists, what was the most common media type, and lastly, what were the 5 top best-selling artists. 
 
 
 
