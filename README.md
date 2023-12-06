@@ -20,6 +20,8 @@ In this project, I used statistics and spreadsheet molding programs such as Goog
 
 In this project, I learned the basics of querying a database using SQL. The dataset used was for a music store where I helped a store understand what their best-selling album was, who were the 5 top-selling artists, what was the most common media type, and lastly, what were the 5 top best-selling genres. 
 
+[Project 3 - Query a Digital Music Store Database](https://github.com/KSterl090/Udacity-Business-Analytics/tree/main/Project%203:%20Query%20a%20Digital%20Music%20Store%20Database)
 
+# 
 
 
